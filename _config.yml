@@ -23,7 +23,7 @@ repository               : "malikahmadu/Portfolio" # the GitHub repository of yo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/image/headshot.png"
+  avatar           : "headshot.png"
   name             : "Malik Ahmadu"
   pronouns         : # example: "she/her"  
   bio              : "Senior computer science student at the University of Houston, passionate about software development and data analyst."
