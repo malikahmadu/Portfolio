@@ -18,8 +18,6 @@ I’m currently completing my undergraduate degree in Computer Science, where I�
 I’ve worked in both **technical support** and **analytics-focused roles**, which has shaped how I approach problem-solving: I value reliability, clarity, and solutions that are practical for the people using them.
 
 
-
-
 Interests
 ======
 My technical interests include:
@@ -30,6 +28,7 @@ My technical interests include:
 
 I enjoy projects that require learning new tools, connecting multiple systems together, and iterating toward cleaner, more maintainable solutions.
 
+**Resume:** [Download PDF](/files/Malik_Ahmadu_DS.pdf)
 
 
 
