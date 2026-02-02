@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: Information Technology Internship
+  * Chartwells Higher Education
+  * Duties includes: Troubleshooting hardware/software issues, supporting live events, maintaining systems reliability
+  * Supervisor: IT Operations Team
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
+* Summer 2025: Data Analyst Externship
+  * QED Energy Associates
+  * Duties included: Data cleaning, cost analysis, dashboard creation, and forecasting support
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming & Scripting**
+  * Python
+  * Java
+  * SQL
+  * JavaScript
+
+* **Web & Backend**
+  * React
+  * Flask
+  * Node.js
+
+* **Data & Analytics**
+  * Pandas
+  * Excel
+  * scikit-learn
+  * Data visualization tools
+
+* **Tools**
+  * Git
+  * Docker
+  * Linux
+  * Cloud platforms 
 
 Publications
 ======
@@ -59,6 +68,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Program Assistant**, St. Elmo Brady STEM Academy  
+  * Supported STEM programming and daily academic operations  
+
+* **Academic Coach**, University of Houston Athletics  
+  * Mentored student-athletes and assisted with academic accountability
