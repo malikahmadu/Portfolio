@@ -29,11 +29,12 @@ author:
   bio              : "Senior computer science student at the University of Houston, passionate about software development and data analyst."
   location         : "Houston, Texas"
   employer         : "University of Houston"
-  uri              : "https://www.uh.edu/nsm/computer-science/"
+  uri              : "https://malikahmadu.github.io/MyPortfolio/"
+
   email            : "malikahmadu@gmail.com" 
 
   # Academic websites
-  # academia        :  "" 
+  academia           :  "https://www.uh.edu/nsm/computer-science/" 
   # arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # inspire-hep      : # URL

@@ -18,12 +18,10 @@ Work experience
 * Fall 2025: Information Technology Internship
   * Chartwells Higher Education
   * Duties includes: Troubleshooting hardware/software issues, supporting live events, maintaining systems reliability
-  * Supervisor: IT Operations Team
 
 * Summer 2025: Data Analyst Externship
   * QED Energy Associates
   * Duties included: Data cleaning, cost analysis, dashboard creation, and forecasting support
-  * Supervisor: Professor Hub
   
 Skills
 ======
